@@ -1,0 +1,27 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÌÔ°úÿÿÿÿ8ß«¾û¾1
+T
+java:S1854	"8Remove this useless assignment to local variable "stu3".(…©†y8ê«¾û¾1
+Z
+java:S1854"8Remove this useless assignment to local variable "stu2".(Ê¨Ç±ýÿÿÿÿ8ê«¾û¾1
+K
+java:S1481")Remove this unused "stu2" local variable.(Ê¨Ç±ýÿÿÿÿ8ë«¾û¾1
+E
+java:S1481	")Remove this unused "stu3" local variable.(…©†y8ë«¾û¾1
+X	java:S125"<This block of commented-out lines of code should be removed.(ïº¥ò8ì«¾û¾1
+G	java:S106"+Replace this use of System.out by a logger.(“Ê‹à8ì«¾û¾1
+]	java:S125"<This block of commented-out lines of code should be removed.(€ôãêüÿÿÿÿ8ì«¾û¾1
+{	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Åö×ýÿÿÿÿ8ì«¾û¾1
+k	java:S116#"ORename this field "City" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑùÛ8ì«¾û¾1
+q	java:S116$"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¾ñàúÿÿÿÿ8­í¿û¾1
+q
+java:S1450"URemove the "userId" field and declare it as a local variable in the relevant methods.(íÃË8í«¾û¾1
+L	java:S106K"+Replace this use of System.out by a logger.(¢¢Âàûÿÿÿÿ8ï«¾û¾1
+K
+java:S2140U")Use "java.util.Random.nextInt()" instead.(¬•í…ùÿÿÿÿ8ð«¾û¾1
+X	java:S125W"<This block of commented-out lines of code should be removed.(ö•¨Ø8ð«¾û¾1
+L	java:S106Y"+Replace this use of System.out by a logger.(«Ìú¯ûÿÿÿÿ8ð«¾û¾1
+]	java:S125]"<This block of commented-out lines of code should be removed.(ŒÔ´úÿÿÿÿ8ñ«¾û¾1
+L	java:S106b"+Replace this use of System.out by a logger.(Ð’òþÿÿÿÿ8ò«¾û¾1
+F	java:S106g"+Replace this use of System.out by a logger.(ÍâôA8ó«¾û¾1
+L	java:S106k"+Replace this use of System.out by a logger.(Ô¬Äýÿÿÿÿ8ó«¾û¾1

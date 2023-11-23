@@ -1,0 +1,27 @@
+
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëøçÑøÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¦ïd
+S
+java:S1854"8Remove this useless assignment to local variable "acc3".(Ú©óñúÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "acc2".(£Í½Ã
+?
+java:S1481")Remove this unused "acc2" local variable.(£Í½Ã
+D
+java:S1481")Remove this unused "acc3" local variable.(Ú©óñúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¹ãâ©
+E	java:S106"+Replace this use of System.out by a logger.(¹·‘›ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¹ãâ©
+E	java:S106"+Replace this use of System.out by a logger.(¹·‘›ûÿÿÿÿ
+t	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õá‚ïùÿÿÿÿ
+c	java:S116%"NRename this field "SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„áˆí
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œˆí¼þÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(ç¨ÚÊ
+?
+java:S21402")Use "java.util.Random.nextInt()" instead.(àïå…
+?	java:S1064"+Replace this use of System.out by a logger.(ØîÂa
+E	java:S1065"+Replace this use of System.out by a logger.( ­‡àúÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(¨ÜŠê
+@	java:S106G"+Replace this use of System.out by a logger.(˜—è£
+@	java:S106K"+Replace this use of System.out by a logger.(ò¾”—
